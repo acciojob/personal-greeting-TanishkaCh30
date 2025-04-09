@@ -20,7 +20,7 @@ const Greeting = () =>{
 
          <p>
            
-           {value ? `Hello, ${value}!` : " "}
+           {value ? `Hello ${value}!` : " "}
            
             </p>
         </div>
